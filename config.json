@@ -25,9 +25,9 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61588403646276",
-    "61585772322631",
-    "61576599896861"
+    "61579149158144",
+    "",
+    ""
   ],
   "developer": [
     "61588403646276",
@@ -60,7 +60,7 @@
       "😾"
     ],
     "kick": [
-      "🖕",
+      "🤬",
       "🦵"
     ],
     "warn": [
@@ -79,8 +79,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "X69X BOT V3",
-  "prefix": ")",
+  "nickNameBot": "✧･ﾟ: 𝚈𝚘𝚞𝚛 𝚋𝚋𝚢 :･ﾟ✧",
+  "prefix": ",",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://Hinata:W2fNh.H9iWFU22F@cluster0.cyattib.mongodb.net/OZADNOOB1?retryWrites=true&w=majority&appName=Cluster0",
